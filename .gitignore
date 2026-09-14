@@ -1,0 +1,25 @@
+# Local runtime files
+PowerShell/config.json
+PowerShell/routers.csv
+Python/config.json
+Python/routers.csv
+Python/.credentials.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE / OS
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
