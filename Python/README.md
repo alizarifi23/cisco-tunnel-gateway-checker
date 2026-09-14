@@ -190,6 +190,10 @@ Donation and sponsorship help support continued development, maintenance, docume
 bc1q0xwpk34wd6cw9vmfk0fchdkahgy7dg32fxmlq4
 ```
 
+**Scan to Donate**
+
+<img src="../Donation/bitcoin-donation-qr.png" alt="Bitcoin Donation QR Code" width="280">
+
 **Important:** Send Bitcoin (BTC) only to this address. Always verify the address before sending.
 
 Thank you for supporting the project ❤️
