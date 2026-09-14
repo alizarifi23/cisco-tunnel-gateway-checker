@@ -162,4 +162,38 @@ Confirm that the selected tunnel exists and that Cisco returns `tunnel source` a
 - [Repository](../README.md)
 - [PowerShell Edition](../PowerShell/README.md)
 
+---
+
+# ❤️ Support the Project
+
+If Cisco Tunnel Gateway Checker is useful to you and you would like to support its development, you can support the project through the options below.
+
+## ⭐ GitHub Support
+
+If you find this project useful:
+
+- ⭐ Give the repository a Star
+- 🐛 Report useful bugs
+- 💡 Suggest improvements
+- 🔧 Contribute code
+- 📖 Improve documentation
+
+## ☕ Donation / Sponsorship
+
+Donation and sponsorship help support continued development, maintenance, documentation, and new network-automation features.
+
+### ₿ Bitcoin Donation
+
+**BTC Address**
+
+```text
+bc1q0xwpk34wd6cw9vmfk0fchdkahgy7dg32fxmlq4
+```
+
+**Important:** Send Bitcoin (BTC) only to this address. Always verify the address before sending.
+
+Thank you for supporting the project ❤️
+
+> Every contribution helps improve and maintain Cisco Tunnel Gateway Checker.
+
 © 2026 Cisco Tunnel Gateway Checker — Powered By Ali Zarifi
